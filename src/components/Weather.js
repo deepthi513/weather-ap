@@ -174,7 +174,7 @@ function Weather() {
                 <div>F</div>
               </div>
               <a
-                href="https://github.com/deepthi513/Weather-App"
+                href="https://github.com/deepthi513/weather-ap"
                 target="_blank"
                 className={`logo-github ${theme}`}
               >
