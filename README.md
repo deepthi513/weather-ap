@@ -34,5 +34,4 @@ $ yarn start
 
 ### Demo
 
-![Demo] ![Screenshot (78)](https://github.com/deepthi513/weather-ap/assets/144103733/ee6decf2-755e-4e71-8f86-92ef9f755b82)
-![Mobile Demo](./src/assets/mobile-design.gif)
+![Screenshot (78)](https://github.com/deepthi513/weather-ap/assets/144103733/ee6decf2-755e-4e71-8f86-92ef9f755b82)
